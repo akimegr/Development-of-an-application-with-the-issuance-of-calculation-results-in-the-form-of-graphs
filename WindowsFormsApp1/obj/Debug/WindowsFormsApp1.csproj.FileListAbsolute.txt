@@ -1,0 +1,20 @@
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\РПВС\лаб 1 c\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\РПВС\лаб 1 c\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\РПВС\лаб 1 c\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\РПВС\лаб 1 c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\РПВС\лаб 1 c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\РПВС\лаб 1 c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\РПВС\лаб 1 c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\РПВС\лаб 1 c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\РПВС\лаб 1 c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\akime\OneDrive\Рабочий стол\лабы 2 сем программировние\РПВС\лаб 1 c\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 8\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 8\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 8\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 8\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 8\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 8\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 8\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 8\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 8\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\akime\OneDrive\Рабочий стол\лабы 3 сем программировние\РПВС\lab 8\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
